@@ -1,7 +1,3 @@
-# Friends List App
-
-Hello my name is Kerem Karşıyaka and I am a student.
-
-This is my Ruby on Rails Friends List App...
+A basic friends website with Ruby on Rails.
 
 Here is the website:http://rorailsmefriends.herokuapp.com
